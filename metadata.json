@@ -1,0 +1,6 @@
+{
+  "name": "VisionGuard AI",
+  "description": "Offline Edge AI Industrial Safety Application for circular saw blade hand detection, danger zone monitoring, camera health diagnostics, and emergency stop decision engine.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
